@@ -9,4 +9,4 @@
 7) git Bash -( All Commands )
 8) Node.js
 9) Express.js with Node.js
-10) EJS
+10) EJs
